@@ -1,0 +1,8 @@
+# ignore folders
+out/
+highway-env/
+__pycache__/
+
+# ignore files
+*.log
+*.json
